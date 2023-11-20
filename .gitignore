@@ -1,0 +1,126 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# dotenv
+.env
+
+# VS Code specific files
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# env
+.env
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pyflow
+.flowconfig
+
+# Pytest
+.pytest_cache/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDE files
+.idea/
+
+# .vscode/
+*.sublime-workspace
+*.sublime-project
+
+# User-specific files
+*.rsuser
+*.rsuser.lock
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ide
+*.iml
+*.sln
+*.sw?
+*.swn
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.cache
+*.log
+*.npm
+*.yarn
+*.pnp
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Misc
+.DS_Store
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
